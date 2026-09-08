@@ -1,5 +1,4 @@
+name="dilip"
+age="19 year"
 a=10
-b=10
-sum=a+b
-print(sum)
-
+print(type(name),type(a))
