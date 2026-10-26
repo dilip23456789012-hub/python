@@ -20,3 +20,4 @@ df=pd.DataFrame(data)
 print(df) 
 print(df.info())
 print(df.describe())
+
